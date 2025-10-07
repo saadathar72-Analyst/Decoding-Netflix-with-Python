@@ -32,7 +32,14 @@ The goal is to understand how Netflix’s content library has evolved over time.
 ---
 
 ## 📊 Conclusion  
-The dataset highlights how Netflix focuses on movies while expanding international content, especially from the US and India.  
+🔹 : The Netflix library has more Movies than TV Shows. The pie chart shows that roughly 60–70% of the content is Movies and 30–40% are TV Shows.
+🔹 : United States and India have the highest number of titles. The top 5 countries hold a major share of the total content.
+🔹 : Drama and Comedy are the most popular genres. The genre-wise content is unevenly distributed, providing useful insights for strategic decisions.
+🔹 : Between 2017 and 2019, the rate of content addition was high. In recent years, Netflix has continued to add new titles consistently.
+
+Recommendations:
+🔹 : Focus on popular genres and marketing efforts in high-content countries.
+🔹 : Explore new content opportunities in countries with lower content representation.  
 
 ---
 
